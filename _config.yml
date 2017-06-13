@@ -1,0 +1,6 @@
+name: Projekt ScriBt
+description: The ROM building automation tool
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
