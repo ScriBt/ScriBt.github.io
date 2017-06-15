@@ -21,6 +21,10 @@
   <!-- Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+  <!-- My Styling -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/default.css" >
 </head>
 <body>
 {% include nav.html %}
@@ -28,6 +32,9 @@
 <div class="container">
   {{content}}
 </div>
+
+<!-- including footer -->
+{% include footer.html %}
 
 </body>
 </html>
