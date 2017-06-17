@@ -11,7 +11,7 @@ title: About Projekt ScriBt
 
 ScriBt is based on various Developer and User Experiences and would be based on the same.
 
-_**ScriBt is completely an Open-Source Project** and is licensed under the GNU General Public License version 3, available in the File [LICENSE](https://raw.githubusercontent.com/a7r3/ScriBt/master/LICENSE)._
+_**ScriBt is completely an Open-Source Project** and is licensed under the GNU General Public License version 3, available in the File [LICENSE](https://raw.githubusercontent.com/ScriBt/ScriBt/master/LICENSE)._
 
 ^^ It would be nice if you mention this Project if you make use of its code, just a personal request.  
 # HappyScriBting!

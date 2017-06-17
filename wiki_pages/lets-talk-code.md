@@ -40,7 +40,7 @@ Yeah, this one.
 ### misc/device_types.rc
 
 * Consists of an array TYPES which contains various Device-Types  
-  - What are [Device Types](https://github.com/ScriBt/ScriBt/wiki/Pre-Build#device-types)  
+  - What are [Device Types]({{ "/wiki/pre-build.html" | relative_url }}#device-types)  
 
 ### misc/intmake.rc
 
@@ -52,7 +52,7 @@ Yeah, this one.
   - `xy` denotes the Last two digits of **Release Year**  
   - Required for Ubuntu/Debian based GNU/Linux distributions
 
-* Arch Linux packages list is present in [archcommon.rc](https://github.com/404/)
+* Arch Linux packages list is present in `archcommon.rc`
 
 ### roms/caf/[ROM_NAME].rc
 
@@ -73,7 +73,7 @@ Yeah, this one.
 ### utils/[binary_file]
 
 * Contains certain binaries which are required by the Tools Installer  
-  - [Tools](https://github.com/ScriBt/ScriBt/wiki/Tools)  
+  - [Tools]({{ "/wiki/tools.html" | relative_url }})  
 
 ### strat/[ROMNIS].rc
 
@@ -86,7 +86,7 @@ Yeah, this one.
 * A script which updates **ScriBt** to the latest version  
 * Provides changelog from **local tag** to the **latest tag**  
 * Inspired from JustArchi's updater-code for the [ArchiKitchen Project](https://github.com/JustArchi/ArchiKitchen)
-* Initially developed by me, re-written later by [Tim Schumacher](https://github.com/TimSchumi)  
+* Initially developed by me, re-written later by [TimSchumi](https://github.com/TimSchumi)  
 
 ### dist_db.rc
 
@@ -98,4 +98,4 @@ Yeah, this one.
 
 ### usage.rc
 
-* Script which talks about the [Usage of ScriBt](https://github.com/ScriBt/ScriBt/wiki/Usage)  
+* Script which talks about the [Usage of ScriBt]({{ "/wiki/usage.html" | relative_url }}#usage)  

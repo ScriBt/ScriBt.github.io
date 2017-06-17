@@ -118,7 +118,7 @@ Information needed by this function are...
 URL should be in the format `https://github.com/[user_org]/[repo_name]/tree/[branch_name]`  
 To get this format, open the repository, and choose the branch you want, It'd reload with the specified format, use it.
 
-**Example** : https://github.com/a7r3/ScriBt/tree/master
+**Example** : https://github.com/ScriBt/ScriBt/tree/master
 
 `DIR` -> Directory under which the commit has to be picked
 

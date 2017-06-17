@@ -13,7 +13,7 @@ That this has been made possible. :pray:
 **TravisCI** page - https://travis-ci.org/ScriBt/ScriBt  
 You can check this page to know the current status of ScriBt
 
-**Status** : ![build | passing](https://img.shields.io/badge/build-passing-brightgreen.svg)  OR  ![build | failing](https://img.shields.io/badge/build-failing-red.svg)  
+**Status** : ![build &#124; passing](https://img.shields.io/badge/build-passing-brightgreen.svg)  OR  ![build &#124; failing](https://img.shields.io/badge/build-failing-red.svg)  
 
 **We get the Build Status to be passing before shipping it (to master).**  
 
