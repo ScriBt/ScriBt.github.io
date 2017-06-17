@@ -24,6 +24,10 @@
 
   <!-- My Styling -->
   <link rel="stylesheet" href="{{ "/static/css/default.css" | relative_url }}">
+
+  <!-- UUDDLRLRBA -->
+  <script src="{{ "/static/js/jGravity.js" | relative_url }}"></script>
+  <script src="{{ "/static/js/uuddlrlrba.js" | relative_url }}"></script>
 </head>
 <body>
 {% include nav.html %}
