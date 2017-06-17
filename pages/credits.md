@@ -23,7 +23,7 @@ All the ROM Developers for their Dedication towards Android ROM Development, and
 
 [**@shavendum**](http://forum.xda-developers.com/member.php?u=5738548) [**@Araib93**](http://forum.xda-developers.com/member.php?u=5052623) - For helping with initial Wiki writings
 
-[**shields.io**](https://shields.io) - For those ![Beautiful | Badges](https://img.shields.io/badge/Beautiful-Badges-brightgreen.svg)
+[**shields.io**](https://shields.io) - For those ![Beautiful &#124; Badges](https://img.shields.io/badge/Beautiful-Badges-brightgreen.svg)
 
 [**XDA-Developers' Forums**](https://forum.xda-developers.com) - For posting about ScriBt on XDA Portal
 

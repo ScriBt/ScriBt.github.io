@@ -21,6 +21,6 @@ _Just the "inner" me ranting..._
 
 If you think this wiki has grammatical errors/mistakes, feel free to contact me or join the Project's discussion group for dealing with it.    
 
-[Telegram | Personal ID](https://t.me/I_Iz_N00b)
+[Telegram &#124; Personal ID](https://t.me/I_Iz_N00b)
 
-[Telegram | Project Discussion](https://t.me/ScriBt)
+[Telegram &#124; Project Discussion](https://t.me/ScriBt)
