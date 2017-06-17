@@ -1,0 +1,90 @@
+/* styling for body/ general styling */
+body {
+    background: #000;
+    color: #DDD;
+    font-family: monospace;
+}
+
+body, ul, p {
+    font-size: 1.2em;
+}
+
+h1, h2, h3 {
+    color: #EF2929;
+}
+
+div.container {
+    margin-top: 80px;
+    margin-bottom: 30px;
+    background: #000;
+}
+
+#scribtLogo {
+    text-align: center;
+}
+
+/* styling for table */
+table {
+    border-collapse: collapse;
+    text-align: left;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+th, td {
+    border: 1px solid white;
+    text-align: left;
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+
+/* styling for nav bar */
+nav, .navbar {
+    border-radius: 0;
+}
+
+/* styling for dropdown menu */
+.dropdown-menu {
+    background: #333;
+    border-radius: 0;
+}
+
+.dropdown-menu a {
+    color: #DDD !important;
+}
+
+.dropdown-menu a:hover {
+    color: #000 !important;
+}
+
+.dropdown-menu .active a {
+    color: #EF2929 !important;
+    background: #000;
+}
+
+.dropdown-menu .active a:hover {
+    background: #000;
+}
+
+/* styling for syntax highlighter */
+.highlighter-rouge {
+    background: #FFF;
+    border-radius: 0px;
+    color: red;
+}
+
+/* styling for footer*/
+#footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0px;
+    font-family: "open sans";
+    background: #222;
+    text-align: center;
+}
+
+#footer > h1, h2 {
+    margin-top: 0px;
+}
