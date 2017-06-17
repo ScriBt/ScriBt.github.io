@@ -1,93 +1,100 @@
 /* styling for body/ general styling */
 body {
-	background: #000;
-	color: #DDD;
-	font-family: monospace;
-	font-size: 1.2em;
+    background: #000;
+    color: #DDD;
+    font-family: monospace;
+    font-size: 1.2em;
 }
 
-ul, ul ul, ul ul ul {
-	font-size: 1.2em;
+ul {
+    font-size: 1.2em;
 }
+
 p {
-	font-size: 1.2em;
+    font-size: 1.2em;
 }
-h1, h2, h3 { color: #EF2929; }
 
-img { border: 2px solid #EF2929; }
+h1, h2, h3 {
+    color: #EF2929;
+}
 
 div.container {
-	margin-top: 80px;
+    margin-top: 80px;
 }
 
 #scribtLogo {
-	text-align: center;
-}
-#scribtLogo img {
-	border: 0;
+    text-align: center;
 }
 
+#scribtLogo img {
+    border: 0;
+}
 
 /* styling for table */
 table {
     border-collapse: collapse;
-	text-align: left;
-	padding: 2px;
-	margin-bottom: 10px;
+    text-align: left;
+    padding: 2px;
+    margin-bottom: 10px;
 }
 
 th, td {
     border: 1px solid white;
-	text-align: left;
-	padding: 5px;
-	font-size: 1.2em;
+    text-align: left;
+    padding: 5px;
+    font-size: 1.2em;
 }
 
 
 /* styling for nav bar */
 nav, .navbar {
-	position: fixed;
-	margin-top: -80px;
-	width: 100%;
-	border-radius: 0;
+    position: fixed;
+    margin-top: -80px;
+    width: 100%;
+    border-radius: 0;
 }
+
 /* styling for dropdown menu */
 .dropdown-menu {
-	background: #333;
-	border-radius: 0;
+    background: #333;
+    border-radius: 0;
 }
+
 .dropdown-menu a {
-	color: #DDD !important;
+    color: #DDD !important;
 }
+
 .dropdown-menu a:hover {
-	color: #000 !important;
+    color: #000 !important;
 }
+
 .dropdown-menu .active a {
-	color: #EF2929 !important;
-	background: #000;
+    color: #EF2929 !important;
+    background: #000;
 }
+
 .dropdown-menu .active a:hover {
-	background: #000;
+    background: #000;
 }
 
 /* styling for syntax highlighter */
 .highlighter-rouge {
-	background: #FFF;
-	border-radius: 0px;
-	color: red;
+    background: #FFF;
+    border-radius: 0px;
+    color: red;
 }
 
 /* styling for footer*/
 #footer {
-	font-family: "open sans";
-	background: #111;
-	min-height: 100px;
-	margin-top: 40px;
-	border-top: 1px solid #111;
-	text-align: center;
-	padding-bottom: 30px;
+    font-family: "open sans";
+    background: #111;
+    min-height: 100px;
+    margin-top: 40px;
+    border-top: 1px solid #111;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 #footer img {
-	border: 0;
+    border: 0;
 }
