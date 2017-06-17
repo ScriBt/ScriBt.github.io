@@ -5,8 +5,9 @@ body {
     font-family: monospace;
 }
 
-body, ul, p {
+body, ul, p, th, td {
     font-size: 1.2em;
+	line-height: 1.7em;
 }
 
 h1, h2, h3 {
@@ -35,7 +36,6 @@ th, td {
     border: 1px solid white;
     text-align: left;
     padding: 5px;
-    font-size: 1.2em;
 }
 
 
