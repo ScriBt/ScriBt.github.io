@@ -5,7 +5,7 @@ layout: default
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1>{{ page.title }}</h1>
-        <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+        <p><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> {{ page.date | date: '%B %d, %Y' }}</time>
         </p>
     </header>
 
