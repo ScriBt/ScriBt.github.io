@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/syncing-sources.html
 title: "Syncing Sources"
 ---
 

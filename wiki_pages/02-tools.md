@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/tools.html
 title: "Tools"
 ---
 
@@ -57,7 +57,7 @@ This action installs the _make 3.81_ binary in the system.
 
 ### Add ScriBt to PATH
 
-This is more of a Feature (aka ScriBtofy), which is explained [here]({{ "pages/features.html" | relative_url }}#scribtofy)  
+This is more of a Feature (aka ScriBtofy), which is explained [here](https://github.com/a7r3/ScriBt/wiki/Features#scribtofy)  
 
 ### Create a ScriBt Update [ScriBt-Devs ONLY]
 
@@ -65,4 +65,4 @@ An update creator for ScriBt, for us.
 
 ### Generate a Custom Manifest
 
-[Featured "Manifest Generator", description about it is in here]({{ "pages/init.html" | relative_url }}#can-scribt-do-it-for-me-)
+[Featured "Manifest Generator", description about it is in here](https://github.com/ScriBt/ScriBt/wiki/Init-%7C-Custom-Manifests#can-scribt-do-it-for-me-)

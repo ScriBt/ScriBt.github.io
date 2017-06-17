@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/documentation.html
 title: "Documentation | HelpMe"
 ---
 

@@ -1,9 +1,10 @@
 ---
-layout: wiki
+permalink: wiki/usage.html
 title: "Usage"
 ---
 
 ## Cloning ScriBt
+
 (Enter this in the terminal)
 
 ```git clone https://github.com/ScriBt/ScriBt -b master <name>```

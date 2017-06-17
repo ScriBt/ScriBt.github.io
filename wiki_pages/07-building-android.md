@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/building-android.html
 title: Building Android
 ---
 

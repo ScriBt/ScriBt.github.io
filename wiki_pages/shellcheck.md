@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/shellcheck.html
 title: "ShellCheck"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/pre-build.html
 title: "Pre-Build"
 ---
 
@@ -35,4 +35,3 @@ Device Type is asked when mentioning Device Details on Pre-Build. Choosing Devic
 * **common_full_hybrid_wifionly** - Android Device with any Size ( Phone / Tablet ) ( used if Device Type is unknown )
 
 * NOTE : IF you're building for a Phone and common_full_phone / common_mini_phone isn't in the list, then press Enter (Leave Blank) as the ROM will consider the Device as a Phone.
-

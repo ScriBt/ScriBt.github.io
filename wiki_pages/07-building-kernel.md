@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/building-kernel.html
 title: Building Kernel
 ---
 
@@ -31,7 +31,7 @@ Ex.
 1 would select the defconfig with the CPU Architecture as **ARM**  
 2 would select the defconfig with the CPU architecture as **ARM64**  
 
-![Where am I ?](https://cloud.githubusercontent.com/assets/14874906/22977730/df14ce38-f3b5-11e6-889b-32094f997081.png)  
+![Where am I ?](https://github.com/ScriBt/images/raw/master/KernelInit.png)  
 
 ## 2. Setting up the Toolchain
 
@@ -41,7 +41,7 @@ Collection of these prompts are required to setup the CROSS_COMPILE variable whi
 
 `CROSS_COMPILE=[toolchain-path]/bin/[prefix]-`  
 
-![TC](https://cloud.githubusercontent.com/assets/14874906/22977778/17ab6df6-f3b6-11e6-9597-1ad1ac5ad67e.png)  
+![TC](https://github.com/ScriBt/images/raw/master/KernelTCSetup.png)  
 
 ## 3. Cleaning the Kernel source  
 

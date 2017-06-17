@@ -1,11 +1,11 @@
 ---
-layout: wiki
+permalink: wiki/features.html
 title: "Features"
 ---
 
 # What do the colors mean ?
 
-![Colors](https://cloud.githubusercontent.com/assets/14874906/22984750/60463530-f3cc-11e6-9178-c543db2f999a.png)  
+![Colors](https://github.com/ScriBt/images/raw/master/RelColor.png)  
 
 This method of coloring is **Relevant_Coloring** and is inspired from [a scene in Person of Interest](https://goo.gl/photos/s8YpQL1eBxSYwCWS7) and ADB Logs on a phone (Log types like E for Error, F for Fatal etc.)
 
@@ -17,7 +17,7 @@ Each command is explained, parameter by parameter
 
 **Preview:**
 
-![cmdprex](https://cloud.githubusercontent.com/assets/14874906/25778882/e1828b44-3328-11e7-9ae8-38acf71cfa2b.png)
+![cmdprex](https://github.com/ScriBt/images/raw/master/cmdprex.png)
 
 This feature fulfils the aspect _"Easy and Understandable"_ :smile:  
 
@@ -44,7 +44,7 @@ Everything you think would be used by ScriBt should be filled.
 
 [lineage_huashan.rc](https://github.com/ScriBt/ScriBt-Examples/blob/master/lineage_huashan.rc)
 
-_Want some more ? Head over to [ScriBt-Examples](https://github.com/ScriBt/ScriBt-Examples) repo for more Automation Configs_
+_Want some more ? Head over to [ScriBt-Examples](https://github.com/ScriBt/ScriBt-Examples) repo for more example Automation Configs_
 
 2. Enter this on Terminal to Start with Automation
 
@@ -54,7 +54,7 @@ bash ./ROM.sh automate
 
 ScriBt would display the available automation config files, select the one you want to execute, It'd do it for you. It's pretty much similar to a lunch menu on Android
 
-![Automation menu](https://cloud.githubusercontent.com/assets/14874906/21285113/9e940f2a-c455-11e6-99ab-f33bfd3094d3.png)  
+![Automation menu](https://github.com/ScriBt/images/raw/master/AutomateMenu.png)  
 
 ##### Functions that can be automated
 
@@ -69,7 +69,7 @@ ScriBt would display the available automation config files, select the one you w
 
 This feature (available under 'tools') allows ScriBt to be executed under any directory by adding it's working directory under PATH  
 
-![ScriBtofy](https://cloud.githubusercontent.com/assets/14874906/22964656/bbc012d4-f37f-11e6-9813-599d2c29dbb8.png)
+![ScriBtofy](https://github.com/ScriBt/images/raw/master/ScriBtofy.png)
 
 What it does ?  
 1. Creates a file '.scribt' under ${HOME} directory  
@@ -80,6 +80,8 @@ What it does ?
 Done!  
 
 You can do this procedure as many times as you want, just in case if you've Shifted ScriBt somewhere else.  
+
+**Open a new terminal for the changes to take effect.**  
 
 ScriBt can be executed normally (after ScriBtofication) ```bash ROM.sh```
 
@@ -139,7 +141,7 @@ source occur time to time, and eventually are merged as commits to the respectiv
 ScriBt removes the hassle of "**What changes did I make for Previous Successful build ? :thinking:**"
 by the Patch Manager Feature
 
-![Patch Manager](https://cloud.githubusercontent.com/assets/14874906/23702774/b76963c6-0422-11e7-817e-7e38318bda0e.png)
+![Patch Manager](https://github.com/ScriBt/images/raw/master/PatchManager.png)
 
 ## How does it work ?
 

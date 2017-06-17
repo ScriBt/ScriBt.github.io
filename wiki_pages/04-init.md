@@ -1,5 +1,5 @@
 ---
-layout: wiki
+permalink: wiki/init.html
 title: "Init | Custom Manifests"
 ---
 
@@ -21,7 +21,7 @@ These manifests should be made under .repo/local_manifests folder. Name of the m
 
 Yes. **Manifest Generator** can generate a custom manifest with the desired actions such as Adding/Removing a repository, Adding a remote, Replacing a repository etc.
 
-![manifest_gen](https://cloud.githubusercontent.com/assets/14874906/26673200/a9c49ab6-46d9-11e7-9a8d-95e066182838.png)  
+![manifest_gen](https://github.com/ScriBt/images/raw/master/manifest_gen.png)  
 
 Nothing of a guide is required to run this module. If you want to know how a manifest works, then there's a guide below this topic to understand it.  
 

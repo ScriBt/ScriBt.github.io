@@ -1,9 +1,7 @@
 ---
-layout: wiki
+permalink: wiki/supported-distros.html
 title: "Supported Distros"
 ---
-
-# List of supported GNU/Linux Distributions so far
 
 Distributions are said to be "supported" if one could get a list of packages (required for building Android) installed properly. Getting Android built is a Secondary requirement.  
 
