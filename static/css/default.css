@@ -85,3 +85,16 @@ a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
 #footer > h1, h2 {
     margin-top: 0px;
 }
+
+/* styling for colored theme symbols*/
+.symbolRed {
+    color: #EF2929 !important; /*i know its suposed to be #F00, but have to match the theme */
+}
+
+.symbolBlue {
+    color: #4682B4 !important; /*i know its suposed to be #00F, but then terminal uses this */
+}
+
+.symbolYellow { color: #FFFF00 !important; }
+.symbolGreen { color: #00FF00 !important; }
+.symbolAqua { color: #00FFFF !important; }
