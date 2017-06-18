@@ -6,8 +6,8 @@ body {
 }
 
 body, ul, p, th, td {
-    font-size: 1.2em;
-	line-height: 1.7em;
+    font-size: 15px;
+	line-height: 24px;
 }
 
 h1, h2, h3 { color: #EF2929; }
