@@ -15,10 +15,11 @@ Making an **Interactive Makefile** under the Device Tree (Identifiable by ROMs B
 
   * Idea came into existence, When I saw most of the ROMs having these lines in one of the BuildSystem's files...
 
-  ```# A ROMNIS build needs only the ROMNIS product makefiles.```
-
-  ```ifneq ($(ROMNIS_BUILD),)```
-     ```all_product_configs := $(shell ls device/*/$(ROMNIS_BUILD)/ROMNIS.mk)```
+```
+# A ROMNIS build needs only the ROMNIS product makefiles.
+ifneq ($(ROMNIS_BUILD),)
+all_product_configs := $(shell ls device/*/$(ROMNIS_BUILD)/ROMNIS.mk)
+```
 
 ### Device Types
 

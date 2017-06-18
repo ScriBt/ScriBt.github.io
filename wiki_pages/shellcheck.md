@@ -3,7 +3,7 @@ permalink: wiki/shellcheck.html
 title: "ShellCheck"
 ---
 
-![derpLife](https://cloud.githubusercontent.com/assets/14874906/26635154/736e11e8-4636-11e7-8581-d849519e09bd.png)
+![derpLife](https://github.com/ScriBt/images/raw/master/derpLife.png)
 
 We are humans, and errors are bound to occur. To make sure there are no obvious/harmful errors, ScriBt is `shellcheck` ed on every Push/Pull Activity, automated by TravisCI.  
 

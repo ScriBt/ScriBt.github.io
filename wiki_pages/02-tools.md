@@ -5,13 +5,13 @@ title: "Tools"
 
 Tools. Setting up the Build Environment and making the System ready to build Android.  
 
-![Tools](https://cloud.githubusercontent.com/assets/14874906/26674792/30734936-46df-11e7-9891-d716e95b7534.png)
+![Tools](https://github.com/ScriBt/images/raw/master/Tools.png)
 
 This function helps the user to make his/her System ready for building Android. Tools provided by ScriBt are...  
 
 ### Install Build Dependencies  
 
-This action installs the required packages which are required by any Android Build System to function properly. Specific to Distro's Year of Release.  
+This action installs the required packages which are required by the Android Build-System to function properly. Specific to Distro's Year of Release.  
 
 ### Install Java  
 

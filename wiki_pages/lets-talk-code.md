@@ -33,7 +33,7 @@ Files in **src/** are **Not Code** - but are Informational Modules, which are re
 
 * Contains the ScriBt startup banner
 
-![Banner](https://cloud.githubusercontent.com/assets/14874906/25773497/ea75ad0e-329b-11e7-92fb-e373d11fdd4b.png)  
+<img alt="ScriBtLogo" src="https://github.com/ScriBt/images/raw/master/ScriBtLogo.png" height="155" width="407" title="ScriBtLogo">
 
 Yeah, this one.  
 

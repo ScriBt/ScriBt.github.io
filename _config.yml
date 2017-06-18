@@ -1,5 +1,5 @@
 name: Projekt ScriBt
-description: The ROM building automation tool
+description: Building ROMs made easy and understandable
 markdown: kramdown
 exclude:
   - Gemfile

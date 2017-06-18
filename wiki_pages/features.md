@@ -165,7 +165,7 @@ OR
 
 ### Indications shown by Patch Manager
 
-![Indications](https://cloud.githubusercontent.com/assets/14874906/25778985/387a676c-332b-11e7-9fe4-5c26b2550ccc.png)
+![Indications](https://github.com/ScriBt/images/raw/master/PatchManagerIndications.png)
 
 ### Notes
 

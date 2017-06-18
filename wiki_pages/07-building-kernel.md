@@ -55,7 +55,7 @@ b. `mrproper`
 
 This option, in addition with performing `clean` also cleans the Kernel configuration file (`.config`), which is equivalent to a complete cleanup. Do note that the defconfig has to be set again since `.config` is deleted  
 
-![Clean it](https://cloud.githubusercontent.com/assets/14874906/22977803/30ce50dc-f3b6-11e6-9460-015cd1091f31.png)  
+![Clean it](https://github.com/ScriBt/images/raw/master/KernelClean.png)  
 
 ## 4. Building the Kernel
 
