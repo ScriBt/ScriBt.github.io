@@ -7,7 +7,7 @@ body {
 
 body, ul, p, th, td {
     font-size: 1.2em;
-	line-height: 1.7em;
+    line-height: 1.7em;
 }
 
 h1, h2, h3 { color: #EF2929; }
@@ -76,14 +76,14 @@ a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
     position: relative;
     bottom: 0;
     width: 100%;
-    padding: 10px 0px;
+    padding: 20px 0px;
     font-family: "open sans";
     background: #222;
     text-align: center;
 }
 
-#footer > h1, h2 {
-    margin-top: 0px;
+#footer > h1, #footer > h2 {
+    margin: 0px;
 }
 
 /* styling for colored theme symbols*/

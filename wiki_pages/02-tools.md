@@ -15,14 +15,14 @@ This action installs the required packages which are required by any Android Bui
 
 ### Install Java  
 
-a. Installation :  
+#### a. Installation:
 
 This action Installs Java 1.6/1.7/1.8. It is the User's choice on which version of Java to install based on the Android version of the ROM he/she desires to build  
 Java 1.6 –> Kitkat
 Java 1.7 –> Lollipop & Marshmallow
 Java 1.8 –> Marshmallow (Experimental support) & Nougat
 
-b. Switch between different Java Versions  
+#### b. Switch between different Java Versions
 In case you have multiple versions of Java Installed, you can switch between these versions by this Option. Doing this will chose the Default Version of Java which will be used by Android for building.
 
 Just in case if the user couldn't Install Java because of it's unavailability, The Java Installation Menu has two other options which are...

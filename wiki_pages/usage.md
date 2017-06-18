@@ -9,7 +9,7 @@ title: "Usage"
 
 ```git clone https://github.com/ScriBt/ScriBt -b master <name>```
 
-where <name> would be the directory under which ScriBt would be cloned
+`<name>` is the name of the directory where ScriBt should be cloned (The Folder needs to be empty)
 
 ## Usage
 
@@ -19,4 +19,4 @@ where <name> would be the directory under which ScriBt would be cloned
 
 ![Version](https://cloud.githubusercontent.com/assets/14874906/23545846/fc7e1406-0022-11e7-89ed-5e174f536a5c.png)
 
-Identical to Projekt's title on XDA Forum thread
+Identical to the Projekt's title on the XDA Forum thread

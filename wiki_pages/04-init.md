@@ -11,13 +11,13 @@ This Action Initializes the ROM's manifest, which consists of a list of Reposito
 
 This is a great Bandwidth/Disk Space Saver option provided by `repo`. If you have a ROM Source already synced (.repo folder should be present), then Referencing that ROM's Source location would check for Sources which are already Synced in that Source, and skips syncing those repositories, thus saving both Time and Bandwidth required to download it.
 
-# Custom Manifests :
+# Custom Manifests:
 
 Custom Manifests (popularly called `local manifests`) act as an Addition to the Repositories mentioned in the ROM's manifest. Users can Add their Device Specific Repositories (and some manifest operations) so that it gets Synced with the ROM's repositories. It is written in XML.
 
 These manifests should be made under .repo/local_manifests folder. Name of the manifest can be user-desired, default is local_manifest.xml
 
-## Can ScriBt do it for me ?
+## Can ScriBt do it for me?
 
 Yes. **Manifest Generator** can generate a custom manifest with the desired actions such as Adding/Removing a repository, Adding a remote, Replacing a repository etc.
 
