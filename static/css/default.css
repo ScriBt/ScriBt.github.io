@@ -98,3 +98,14 @@ a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
 .symbolYellow { color: #FFFF00 !important; }
 .symbolGreen { color: #00FF00 !important; }
 .symbolAqua { color: #00FFFF !important; }
+
+/* styling for grey scaling */
+a.greyscale {
+    -webkit-filter: invert(.6) grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: invert(.6) grayscale(100%); /* invert, since greyscale does not work on white and black */
+    transition: all 0.2s linear;
+}
+
+a.greyscale:hover {
+  filter: none;
+}
