@@ -3,8 +3,6 @@ permalink: wiki/building-kernel.html
 title: Building Kernel
 ---
 
-**Documentation - Almost done**
-
 ## Steps involved in building a Kernel include
 
 ### 0. Pointing ScriBt to the Kernel Source

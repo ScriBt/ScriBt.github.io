@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="scribtLogo">
     <img alt="ScriBt" src="https://github.com/ScriBt/images/raw/master/ScriBtLogo.png" height="155" width="407" title="ScriBt">
-    <h1>{{ site.description }}</h1>
+    <h2><span class="symbolGreen">[!]</span> {{ site.description }} <span class="symbolGreen">[!]</span></h2>
 </div>
 
 <div class="container">

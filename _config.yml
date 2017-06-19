@@ -1,5 +1,5 @@
 name: Projekt ScriBt
-description: Building ROMs made easy and understandable
+description: Building ROMs made understandable
 markdown: kramdown
 exclude:
   - Gemfile

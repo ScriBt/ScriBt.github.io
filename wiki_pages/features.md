@@ -73,10 +73,12 @@ This feature (available under 'tools') allows ScriBt to be executed under any di
 
 What it does ?  
 1. Creates a file '.scribt' under ${HOME} directory  
-2. Adds this code: ```export PATH=/wherever/is/ScriBt:$PATH```  
+2. Adds this code inside it: `export PATH=/wherever/is/ScriBt:$PATH`  
 3. Adds code to execute '.scribt' under .bashrc:  
-```# ScriBtofy```  
-```. ~/.scribt;```  
+```
+# ScriBtofy
+. ~/.scribt;
+```  
 Done!  
 
 You can do this procedure as many times as you want, just in case if you've Shifted ScriBt somewhere else.  
@@ -99,7 +101,7 @@ ScriBt is updated on the basis of the HEAD's SHA ID
 HEAD is the latest commit (SHA ID) of any Repository's commit list  
 If the HEAD of Local Clone and HEAD of Remote Clone is different, then ScriBt notifies the user to update itself.  
 
-```upScriBt``` does the Updating work.  
+`upScriBt` does the Updating work.  
 
 **ROM.sh** force-downloads upScriBt.sh from 'master' branch.
 **upScriBt.sh then checks updates** on the basis of the above Procedure
