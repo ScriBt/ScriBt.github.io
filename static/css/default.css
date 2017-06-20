@@ -10,6 +10,8 @@ body, ul, p, th, td {
     line-height: 24px;
 }
 
+a { transition: all 0.2s linear; }
+
 h1, h2, h3 { color: #EF2929; }
 
 div.container {
@@ -37,7 +39,6 @@ th, td {
 
 /* styling for nav bar */
 nav, .navbar { border-radius: 0; }
-a.navbar-brand span { transition: all 0.2s linear; }
 a.navbar-brand:hover #logoP { color: #EF2929 !important; }
 a.navbar-brand:hover #logoR { color: #FCE94F !important; }
 a.navbar-brand:hover #logoO { color: #34E2E2 !important; }
@@ -46,7 +47,8 @@ a.navbar-brand:hover #logoE { color: #34E2E2 !important; }
 a.navbar-brand:hover #logoK { color: #FCE94F !important; }
 a.navbar-brand:hover #logoT { color: #EF2929 !important; }
 a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
-
+#linkAbout { font-size: 17px; }
+#linkAbout:hover { color: #337AB7 !important; }
 
 /* styling for dropdown menu */
 .dropdown-menu {
@@ -103,7 +105,6 @@ a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
 a.greyscale {
     -webkit-filter: invert(.6) grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: invert(.6) grayscale(100%); /* invert, since greyscale does not work on white and black */
-    transition: all 0.2s linear;
 }
 
 a.greyscale:hover {
