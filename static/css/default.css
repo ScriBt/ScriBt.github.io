@@ -39,6 +39,7 @@ th, td {
 
 /* styling for nav bar */
 nav, .navbar { border-radius: 0; }
+a.navbar-brand span { transition: all 0.2s linear; }
 a.navbar-brand:hover #logoP { color: #EF2929 !important; }
 a.navbar-brand:hover #logoR { color: #FCE94F !important; }
 a.navbar-brand:hover #logoO { color: #34E2E2 !important; }
