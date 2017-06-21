@@ -90,17 +90,13 @@ a.navbar-brand:hover #logoScriBt { color: #EF2929 !important; }
 }
 
 /* styling for colored theme symbols*/
-.symbolRed {
-    color: #EF2929 !important; /*i know its suposed to be #F00, but have to match the theme */
-}
-
-.symbolBlue {
-    color: #4682B4 !important; /*i know its suposed to be #00F, but then terminal uses this */
-}
-
+/* Based on XTerm Color scheme*/
+.symbolRed { color: #FF0000 !important; }
+.symbolBlue { color: #5C5CFF !important; }
 .symbolYellow { color: #FFFF00 !important; }
 .symbolGreen { color: #00FF00 !important; }
 .symbolAqua { color: #00FFFF !important; }
+.symbolGrey { color: #7F7F7F !important; }
 
 /* styling for grey scaling */
 a.greyscale {
