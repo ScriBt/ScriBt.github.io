@@ -7,11 +7,26 @@ title: "Disclaimer"
 > <b>Programs must be written for people to read, and only incidentally for machines to execute.</b><br>
 > <p align="right">― Harold Abelson, Structure and Interpretation of Computer Programs</p>
 
-So, take a read through this snippet of code
+So, take a read through this snippet of code (comments?)
 
-<p><span class="symbolGreen">function</span> <b>disclaimer</b><span class="symbolGreen">()<br>
-{</span><br>
-<i><span class="symbolGrey">#<br>
+<p>
+<span class="symbolGreen">
+function
+</span>
+<b> disclaimer</b><span class="symbolGreen">()<br>
+{
+</span>
+<br>
+<p style="margin-left:36px;">
+<b>
+<span class="symbolBlue">echo</span></b>&nbsp;-e&nbsp;<b>
+<span class="symbolYellow">"[!] Read the Disclaimer below"</span></b><span class="symbolGreen">;</span>
+<br>
+<b>
+<span class="symbolBlue">echo</span></b><span class="symbolGreen">;</span>
+<i>
+<span class="symbolGrey"><br>
+#<br>
 # This Guide/Tool is an <b>attempt</b> to explain  the commands or<br>
 # instructions involved while building any ROM, and is <b>not meant</b><br>
 # to be used as a <b>time-saver/shortcut</b> tool.<br>
@@ -40,7 +55,13 @@ So, take a read through this snippet of code
 #<br>
 </span>
 </i>
-<b><span class="symbolBlue">echo</span></b> -e <b><span class="symbolYellow">"If you've read it till here, Thank 
-You"</span></b><span class="symbolGreen">;<br>
-}</span> <i><span class="symbolGrey"># disclaimer</span></i>
+<b><span class="symbolBlue">echo</span></b><span class="symbolGreen">;</span>
+<br>
+<b><span class="symbolBlue">echo</span></b>&nbsp;-e&nbsp;
+<b><span class="symbolYellow">"[!] If you've read it till here, Thank You"</span></b><span class="symbolGreen">;</span>
+</p>
+<span class="symbolGreen">}</span>&nbsp;
+<i>
+<span class="symbolGrey"># disclaimer</span>
+</i>
 </p>
