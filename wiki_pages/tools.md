@@ -32,6 +32,8 @@ Ubuntu 16.04~ and want to Install Java 7
 [ ~ - Also applies for Distros based on these Releases such as Linux Mint ]
 which installs Java from a recognized PPA – openjdk-r
 
+<b>NOTICE</b>: openjdk-r hasn't been updated for Ubuntu 17.04 (Zesty Zapus) yet, so Installing Java 7 from ScriBt isn't possible at this moment
+
 ScriBt installs Java by OpenJDK (not the Oracle JDK) which is used for building
 
 ### Install / Update ADB udev rules  
@@ -48,12 +50,10 @@ This is asked when you start your First Ever Sync.
 ### Install _make_
 
 make (or GNU make) is a binary which is used to build any module from it's Source on any Linux Distro.
-This was also used to build Android from source. It worked well and good until it was updated to version 4 where developers were reporting longer build times (slower compilation) on comparison with version 3.81.
-So, Developers suggested to revert back to make 3.81 to avoid longer build times in 4.0+ versions. This issue was specific for Android.
 
-This action installs the _make 3.81_ binary in the system.
+This action installs the `make' binary in the system.
 
-### Install _ninja_, _ccache_, _repo_
+### Install _ninja_, _ccache_, _repo_ ^^
 
 ### Add ScriBt to PATH
 
