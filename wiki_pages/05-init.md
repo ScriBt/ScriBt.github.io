@@ -21,9 +21,10 @@ These manifests should be made under .repo/local_manifests folder. Name of the m
 
 Yes. **Manifest Generator** can generate a custom manifest with the desired actions such as Adding/Removing a repository, Adding a remote, Replacing a repository etc.
 
-![manifest_gen](https://github.com/ScriBt/images/raw/master/manifest_gen.png)  
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen.png)  
 
 Nothing of a guide is required to run this module. If you want to know how a manifest works, then there's a guide below this topic to understand it.  
+Screenshots showing how it works are present below, check it out!
 
 User is asked whether to generate a custom manifest after Initializing a ROM's manifest. Alternatively, one can access **Manifest Generator** by heading on to **Tools -> Generate Custom Manifest**  
 
@@ -138,3 +139,25 @@ If you don't remove the project (or swap the order stated above), and only add t
 Which means that there are more than one projects which are getting synced to the SAME path, you have to remove either of them.
 
 _Both projects are the same if their Checkout Path is the SAME._
+
+## Manifest Generator in Action
+
+### Adding repository
+
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen_addrepo.png)
+
+### Removing repository
+
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen_removerepo.png)
+
+### Adding remote
+
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen_addremote.png)
+
+### Listing remotes
+
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen_lsr.png)
+
+### Listing performed operations
+
+![Manifest Generator](https://github.com/ScriBt/images/raw/master/manifest_gen_ops.png)
