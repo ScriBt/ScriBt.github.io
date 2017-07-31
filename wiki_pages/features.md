@@ -91,9 +91,7 @@ However, if you want to test another version of ScriBt (which is not in PATH) , 
 
 ```bash ./ROM.sh```
 
-This command executes ROM.sh which is present at the current directory instead of the one in PATH.  
-This command also applies if you want to sync the source to the same location where ScriBt has been cloned.   
-ScriBt gives preference to local ROM.rc to be executed (instead of the ROM.rc in PATH), if it is PRESENT.
+This command executes ScriBt which is present under the current directory instead of the one in PATH.  
 
 # Updates
 
