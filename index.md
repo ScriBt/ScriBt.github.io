@@ -11,7 +11,7 @@ layout: default
   <div>
 
     <div>
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><b style="font-size: 30px; font-family: inherit; font-weight: 500; line-height: 1.1;">{{ post.title }}</b></h2>
       <p><i class="fa fa-clock-o fa-fw" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
     </div>
 
